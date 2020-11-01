@@ -1,2 +1,2 @@
 # DDD
-Domain Driven Development Study Repository
+Domain Driven Design Study Repository
